@@ -1,3 +1,6 @@
+# 前言
+- 源Kernel：[Stacked Regressions : Top 4% on LeaderBoard](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)  
+- 发布kesci：[Kaggle-Hourse Prices 房价预测](https://www.kesci.com/home/project/5bcdd2d7faf8fe0010b9e79b)
 # 项目思路
 - 数据导入与预处理
 	- 模块导入
